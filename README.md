@@ -28,5 +28,5 @@ Eu sou uma pessoa bem calma e me considero com um bom espírito de liderança, e
   
   
   
-   ![Snake animation](https://github.com/CobrinhaB1/CobrinhaB1/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/B1nair3/B1nair3/blob/output/github-contribution-grid-snake.svg)
  
