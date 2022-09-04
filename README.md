@@ -1,11 +1,61 @@
 # Saudações visitante eu sou João Vitor Carrilho! Seja bem-vindo!
-Eu sou um técnico em ciência da computação formado na Unicamp, tenho ... anos e trabalho como programador no Canadá.
-Eu sou uma pessoa bem calma e me considero com um bom espírito de liderança, e um gostaria de me tornar dono de uma grande empresa de programação. Atualmente moro em Vancouver no Cadaná e quero viver uma vida tranquila, sem preblemas.
+Eu sou um técnico desenvolvimento de sistemas formado na Unicamp, tenho ... anos e trabalho como programador no Canadá.
+Eu sou uma pessoa bem calma e me considero com um bom espírito de liderança, e um dia gostaria de me tornar dono de uma grande empresa de programação. Atualmente moro em Vancouver no Cadaná e quero viver uma vida tranquila, sem preblemas.
 
+⭐Informações principais{
+  
+⭐Idiomas{                                                                                                                                                               
+  Português (Brasil);                                                                                                                                                   
+  Inglês;                                                                                                                                                               
+  Espanol.
+       } 
+          
+⭐Expêrincias{
+     
+  🔸Desenvolvedor de Web{
 
+  Atuei na HCLTech, empresa de programação de sites com sede no canadá,
+  na área de programação web, na área de programação, participei da 
+  criação de diversos sites para diversos clientes, fazendo códigos 
+  aparências e funcionalidades dos sites.}
 
+  🔸Desenvolvedor de APP's{
+  
+  Atuei na MindConsulting, empresa de programação de APP's para 
+  celular com sede virtual, na área de programação e adaptação, 
+  participei da adaptação/recriação de diversos APP's (clientes
+  que tinham sites para web solicitavam a adaptação para um APP
+  de celular), fazendo códigos e funcionalidades dos APP's.}
+           } 
 
+⭐Formação{
 
+  Formação e especialização em desenvolvimento de sistemas
+  na unicamp, responsavel pela criação de sites para Web e 
+  APP's para celular, na parte web atuando nas áreas de 
+  programação de código, aparências e funcionalidades dos 
+  sites, já no desenvolvimento de APP's atuando nas áreas 
+  de programação de códigos e funcionalidas.}
+  
+⭐Habilidades{
+
+  🔸Programação geral:
+  
+  JavaScript,
+  CSharp,
+  Arduino,
+  Python,
+  Php.
+  
+  🔸Competencia em banco de dados:
+  
+  MySQL HUD,
+  MySQL Syntaxes.
+  
+  🔸Hardware.}
+           
+
+  
 <div align="center">
   <a href="https://github.com/B1nair3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B1nair3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,6 +69,7 @@ Eu sou uma pessoa bem calma e me considero com um bom espírito de liderança, e
   <img align="center" alt="Rafa-Csharp" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Csharp" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   
+
   
   
   <a href="https://instagram.com/B1nair3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
