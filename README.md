@@ -53,7 +53,7 @@ Eu sou uma pessoa bem calma e me considero com um bom espírito de liderança, e
   MySQL HUD,
   MySQL Syntaxes.
   
-  🔸Hardware.}
+  🔸Hardware.}}
            
 
   
