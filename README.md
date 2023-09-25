@@ -1,9 +1,9 @@
 # I'm João Vitor Carrilho! But u can call me Jamec or B1nair3!
 void main() { <br>
-    Studying Sistem Developing in the Technical School from Limeira of UNICAMP! <br>
-    Pretending to be a Back-End dev 🧐 <br>
+    Studying Sistem Developing in the Technical School from Limeira of UNICAMP!; <br>
+    Pretending to be a Back-End dev 🧐; <br>
     Actual language knowledge { <br>
-        Python, C#, C, Java, Html, Css, MySQL <br>
+        Python, C#, C, Java, Html, Css, MySQL; <br>
     } <br>
 } <br>
   
