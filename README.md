@@ -11,4 +11,3 @@ Estudante de Desenvolvimento de Sistemas no Colegio Técnico de Limeira da UNICA
   
   
    ![Snake animation](https://github.com/B1nair3/B1nair3/blob/output/github-contribution-grid-snake.svg)
- 
