@@ -1,5 +1,5 @@
-# Eu sou João Vitor Carrilho!
-Estudante de Desenvolvimento de Sistemas no Colegio Técnico de Limeira da UNICAMP!
+# I'm João Vitor Carrilho! But u can call me Jamec or B1nair3!
+Studying Sistem Developing in the school Technical School from Limeira of UNICAMP!
 
   
 <div align="center">
