@@ -1,4 +1,4 @@
-# I'm João Vitor Carrilho! But u can call me Jamec or B1nair3!
+# Hey, I'm João Vitor Carrilho! But u can call me Jamec or B1nair3!
 void main() { <br>
     Studying Sistem Developing in the Technical School from Limeira of UNICAMP!; <br>
     Pretending to be a Back-End dev 🧐; <br>
