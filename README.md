@@ -1,6 +1,6 @@
 # Hey, I'm João Vitor Carrilho! But u can call me Jamec or B1nair3!
 Studying Sistem Developing in the Technical School from Limeira of UNICAMP!; <br>
-Pretending to be a Back-End dev 🧐; <br><br>
+Pretending to be a Back-End dev 🧐; <br>
 
 <div align="center">
   <a href="https://github.com/B1nair3">
