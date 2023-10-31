@@ -1,4 +1,4 @@
-# Hey, I'm João Vitor Carrilho! But u can call me Jamec or B1nair3!
+# Hey 👋, I'm B1nair3!
 
 <div align="center">
   <a href="https://github.com/B1nair3">
