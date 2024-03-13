@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm B1nair3</h1>
 <h3 align="center">A fullstack developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Flutter and PHP**
+- 🌱 I’m currently learning **Flutterm, PHP and Arduino**
 
 - 💬 Ask me about **Python/C#**
 
