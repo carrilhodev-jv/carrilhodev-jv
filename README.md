@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python/C#**
 
-- 📫 How to reach me **jvcarrilho.b1nair3@gmail.com**
+- 📫 How to reach me **jgamec2019@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
