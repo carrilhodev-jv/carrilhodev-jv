@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node / Ruby**
 
-- 💬 Ask me about **Python/C#**
+- 💬 Ask me about **HTML/C#**
 
 - 📫 How to reach me **jgamec2019@gmail.com**
 
