@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node / Nest.js / Next.js** 
 
-- 💬 Ask me about **HTML/C#**
+- 💬 Ask me about **HTML/CSS**
 
 - 📫 How to reach me **jvcb1nair3@gmail.com**
 
