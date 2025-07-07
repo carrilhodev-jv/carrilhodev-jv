@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm B1nair3</h1>
+<h1 align="center">Hi 👋, I'm João Vitor Carrilho</h1>
 <h3 align="center">A fullstack developer from Brazil.</h3>
 
 - 🌱 I’m currently learning **** 
