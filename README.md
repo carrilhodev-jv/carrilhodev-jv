@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vitor Carrilho</h1>
 <h3 align="center">A fullstack developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **** 
+- 🌱 I’m currently learning **JS / TS / React / Next / Node** 
 
 - 💬 Ask me about **HTML/CSS**
 
